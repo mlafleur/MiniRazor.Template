@@ -1,3 +1,3 @@
-dotnet build src
+dotnet build content
 nuget.exe pack
-dotnet clean src
+dotnet clean content

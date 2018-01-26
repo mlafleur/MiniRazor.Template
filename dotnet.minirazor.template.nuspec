@@ -11,6 +11,6 @@
         </packageTypes>
     </metadata>
     <files>
-        <file src="src\**\**" target="\" exclude="src\bin\**\*.*;src\obj\**\*.*;src\node_modules\**\*.*"/>
+        <file src="*\**" target="\" exclude="content\bin\**\*.*;content\obj\**\*.*;content\node_modules\**\*.*"/>
     </files>
 </package>

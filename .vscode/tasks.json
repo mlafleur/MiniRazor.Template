@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/src/MiniRazor.csproj"
+                "${workspaceFolder}/content/MiniRazor.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
