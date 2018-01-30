@@ -3,7 +3,7 @@
     xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
     <metadata>
         <id>MiniRazor.Template</id>
-        <version>1.0.0</version>
+        <version>0.0.2</version>
         <description>ASP.NET Core 'bare minimum' web app with Razor Pages</description>
         <authors>Marc LaFleur</authors>
         <packageTypes>

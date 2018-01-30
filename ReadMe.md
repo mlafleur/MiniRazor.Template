@@ -17,15 +17,9 @@ _Warning: At the moment the item more minimal than the template is this "Read Me
     - `Index.cshtml` - A simple "Hello World" Razor Page
     - `Index.cshtml.cs` - The Razor Page Controller for the `Index.cshtml` page
 
-## Building the Template
+## Building & Installing the Template
 
-Executing `build.cmd` will produce the NuGet package containing the template `dotnet.minirazor.template.1.0.0.nupkg`. 
-
-## Installing the Template
-
-```ps
-dotnet new --install "{path to dotnet.minirazor.template.1.0.0.nupkg}"
-```
+Executing `Install.cmd` script will produce a NuGet package containing the template and install it locally.
 
 ## Using the Template
 
